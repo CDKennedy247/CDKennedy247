@@ -11,6 +11,8 @@ Halfords, TK Maxx, ODEON and Lloyds Banking Group. Now I build products and AI a
 - **AI agents and agentic workflows**: Claude Code and MCP integrations in Python
   and Node.js, connecting LLMs to live platforms and data.
 
+  **[A/B Test Planner](https://cdkennedy247.github.io/ab-test-planner/)**: sizes tests and calls them on revenue, with checks for false winners.
+
 ### How I work
 Hypothesis first, measured in revenue, shipped fast. AI-first in everything I build.
 
